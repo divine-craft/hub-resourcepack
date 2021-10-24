@@ -1,0 +1,6 @@
+{
+    "parent": "divinecraft:pet/abstract_flying_player_slim",
+    "textures": {
+        "1": "divinecraft:pet/flying_joper"
+    }
+}
